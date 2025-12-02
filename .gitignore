@@ -1,0 +1,15 @@
+# 環境變數檔案（絕對不能上傳）
+.env
+.env.local
+.env. production
+
+# Node modules
+node_modules/
+
+# 日誌檔案
+logs/
+*.log
+
+# API Keys（以防萬一）
+api-keys. json
+secrets.json
